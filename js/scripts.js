@@ -190,7 +190,7 @@ $(document).ready(function () {
             start: new Date('Sep 10, 2022 19:00'),
 
             // Event duration (IN MINUTES)
-            // duration: 120,
+            duration: 120,
 
             // You can also choose to set an end time
             // If an end time is set, this will take precedence over duration
